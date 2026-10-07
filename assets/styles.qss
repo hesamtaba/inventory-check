@@ -1,0 +1,8 @@
+QWidget { font-family: "Segoe UI", Tahoma; font-size: 10pt; }
+QMainWindow { background: #f5f6f8; }
+QGroupBox { background: white; border: 1px solid #dfe3e8; border-radius: 8px; margin-top: 8px; padding-top: 10px; }
+QPushButton { padding: 7px 12px; border-radius: 5px; background: #ffffff; border: 1px solid #c9ced6; }
+QPushButton:hover { background: #eef2f6; }
+QLineEdit,QComboBox,QDateEdit,QSpinBox { padding: 7px; background: white; border: 1px solid #c9ced6; border-radius: 5px; }
+QTableWidget { background: white; gridline-color: #e5e7eb; }
+QHeaderView::section { background: #e9edf2; padding: 6px; font-weight: bold; }
